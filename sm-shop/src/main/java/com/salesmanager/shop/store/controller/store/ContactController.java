@@ -81,7 +81,6 @@ public class ContactController extends AbstractController {
 		System.out.println("TIA - changes for parallel test");
 		
 		System.out.println("changes for TIA");
-		System.out.println("changes for TIA-2");
 		
 		MerchantStore store = (MerchantStore)request.getAttribute(Constants.MERCHANT_STORE);
 		
